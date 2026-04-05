@@ -6,3 +6,4 @@ pragma solidity ^0.8.20;
 contract DefaultMessage {
     string public message = "Hello";
 }
+Improve contract readability
