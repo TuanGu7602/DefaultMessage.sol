@@ -7,3 +7,4 @@ contract DefaultMessage {
     string public message = "Hello";
 }
 Improve contract readability
+Add missing require statement
